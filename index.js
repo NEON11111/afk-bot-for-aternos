@@ -1,3 +1,6 @@
+node.js: 0.8.20 path to node:    /Users/feelexit/nvm/v0.8.20/bin/node
+path to express: /Users/feelexit/nvm/node_modules/express
+
 const mineflayer = require('mineflayer')
 const fs = require('fs');
 const { keep_alive } = require("./keep_alive");
